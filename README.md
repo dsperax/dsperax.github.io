@@ -1,4 +1,4 @@
 ## dsperax.github.io
-My personal webpage.
+My personal website.
 
 Just HTML and CSS, simple as it should be.
