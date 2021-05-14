@@ -1,8 +1,8 @@
-header{
+header {
     text-align: center;
 }
 
-body{
+body {
     max-width: 750px;
     margin-left: auto;
     margin-right: auto;
@@ -12,15 +12,15 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
-footer{
+footer {
     display: inline-block;
 }
 
-div{
+div {
     display: block;
 }
 
-h1{
+h1 {
     display: block;
     font-size: 2em;
     margin-block-start: 0.67em;
@@ -30,7 +30,7 @@ h1{
     font-weight: bold;
 }
 
-.my-picture{
+.my-picture {
     border-radius: 150px;
     max-width: 150px;
 }
@@ -40,24 +40,27 @@ h1{
     font-size: 36px;
 }
 
-#hello-world{
+#hello-world {
     margin-top: 5px;
     font-size: 30px;
 }
 
-#projects{
+#projects {
     font-size: 150%;
 }
 
-.about-me, .my-projects{
+.about-me,
+.my-projects {
     padding-right: 3%;
     padding-left: 3%;
     border-radius: 10px;
     text-align: justify;
 }
 
+
 /* video do youtube */
-.embed{
+
+.embed {
     padding-top: 20px;
     padding-bottom: 20px;
     display: flex;
@@ -71,11 +74,15 @@ h1{
     justify-content: center;
 }
 
-#footer-icons{
+#footer-icons {
     display: flex;
     align-items: center;
     position: absolute;
     margin-top: 20px;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.seals {
+    max-width: 6em;
 }
